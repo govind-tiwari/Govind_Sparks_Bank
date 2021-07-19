@@ -61,9 +61,9 @@ text-align: center;
 font-size: 14px;
 color: #fff;
 border: none;
-background-color: #bbf0f3;
+background-color: #bbf0f8;
 /*background-image: linear-gradient(315deg, #bbf0f3 0%, #f6d285 74%);*/
-background-image: linear-gradient(315deg, #f5f5f5 0%, #117a8b 74%);
+background-image: linear-gradient(78deg, #f6f8f5 0%, #117a8b 84%);
 border-radius: 10px;}
 .mainHeader nav a{
 	text-decoration: none;
